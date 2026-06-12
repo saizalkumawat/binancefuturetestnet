@@ -1,0 +1,15 @@
+2026-06-13 00:30:39,860 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Quantity=0.001
+2026-06-13 00:30:39,861 - ERROR - Error: API Secret required for private endpoints
+2026-06-13 00:31:53,316 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Quantity=0.001
+2026-06-13 00:31:53,317 - ERROR - Error: API Secret required for private endpoints
+2026-06-13 00:35:03,352 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Quantity=0.001
+2026-06-13 00:35:03,352 - ERROR - Error: API Secret required for private endpoints
+2026-06-13 00:36:52,360 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Quantity=0.001
+2026-06-13 00:36:53,238 - INFO - Order Success: OrderID=15041202207, Status=NEW
+2026-06-13 00:37:54,761 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Quantity=0.001
+2026-06-13 00:38:02,415 - ERROR - Error: APIError(code=-4002): Price greater than max price.
+2026-06-13 00:38:41,086 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Quantity=0.0001
+2026-06-13 00:38:44,804 - ERROR - Error: APIError(code=-4024): Limit price can't be lower than 60522.70.
+2026-06-13 00:39:14,132 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Quantity=0.001
+2026-06-13 00:41:06,704 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Quantity=0.001
+2026-06-13 00:41:07,546 - INFO - Order Success: OrderID=15041446453, Status=NEW
